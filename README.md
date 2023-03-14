@@ -1,7 +1,7 @@
 # Olá!👋
 
 - 🔭 Hoje eu trabalho como Analista de Sistemas - Tasy HTML5 OPS - SQL
-- 🌱 Estou aprendendo atualmente Typescript e React
+- 🌱 Estou aprendendo atualmente Typescript e Angular
 
 <div align="center">
   <a href="https://github.com/davidasteixeira">
