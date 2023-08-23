@@ -1,6 +1,6 @@
 # Olá!👋
 
-- 🔭 Hoje eu trabalho como Analista de Sistemas - Tasy HTML5 OPS - SQL
+- 🔭 Hoje eu trabalho como Analista de Sistemas - Tasy HTML5
 - 🌱 Estou aprendendo atualmente Typescript e Angular
 
 <div align="center">
