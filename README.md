@@ -1,8 +1,10 @@
-<h1 align="left">Hey 👋 Welcome!</h1>
+<h1 align="left">Olá👋 Bem Vindo!</h1>
 
 ###
 
-<p align="left">My name is David, I'm a fullstack developer, I live in Rio de Janeiro and I'm passionate about technology. My journey into the world of programming is driven by curiosity and the constant search for improvement.<br><br>I'm currently involved with JavaScript and TypeScript, which are my languages of choice for creating modern applications. In addition, I have a great affinity for relational databases, and I'm always exploring new ways to optimize and manage data efficiently.</p>
+<p align="left">Sou desenvolvedor full stack, moro no Rio de Janeiro e sou apaixonado por tecnologia. Minha jornada no mundo da programação é movida pela curiosidade e pela busca constante de aperfeiçoamento.
+
+Atualmente estou envolvido com JavaScript/Typescript, que são minhas linguagens de escolha para a criação de aplicações modernas. Além disso, tenho uma grande afinidade com bancos de dados relacionais, e estou sempre explorando novas formas de otimizar e gerenciar dados de forma eficiente.</p>
 
 ###
 
@@ -17,7 +19,7 @@
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="16" />
-  <img src="https://nestjs.com/logo-small-gradient.76616405.svg" height="30" alt="nestjs logo"  />
+  <img src="https://nestjs.com/logo-small-gradient.d792062c.svg" height="30" alt="nestjs logo"  />
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
   <img width="16" />
